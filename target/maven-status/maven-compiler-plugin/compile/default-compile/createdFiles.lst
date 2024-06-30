@@ -1,0 +1,6 @@
+com\qa\utility\Utilities.class
+com\qa\pages\registerpage.class
+com\qa\runner\Base.class
+com\qa\test\loginpagetest.class
+com\qa\pages\homepage.class
+com\qa\pages\loginpage.class
